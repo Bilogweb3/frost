@@ -39,7 +39,7 @@ This will by default generate a 2-of-3 key shares. The public key package
 will be written to `public-key-package.json`, while key packages will be
 written to `key-package-1.json` through `-3`. You can change the threhsold,
 number of shares and file names using the command line; append `-- -h`
-to the commend above for the command line help.
+to the command above for the command line help.
 
 ```admonish info
 If you want to use DKG instead of Trusted Dealer, instead of the command above,
